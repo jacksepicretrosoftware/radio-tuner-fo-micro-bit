@@ -1,5 +1,6 @@
 {
     "name": "Radio Tuner Fo Micro Bit",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
