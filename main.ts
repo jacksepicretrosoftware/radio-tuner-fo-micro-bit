@@ -56,5 +56,5 @@ input.onGesture(Gesture.Shake, function () {
     music.play(music.tonePlayable(147, music.beat(BeatFraction.Whole)), music.PlaybackMode.UntilDone)
     basic.showIcon(IconNames.Sword)
 })
-basic.showString("HARTLEPOOL RADIO")
+basic.showString("Radio Tuner")
 basic.clearScreen()
